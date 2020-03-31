@@ -1,0 +1,8 @@
+Doctor(firstName=Nia, lastName=Uv, age=38, id=3829, statistics=)
+Doctor(firstName=Cye, lastName=Sj, age=62, id=9797, statistics=)
+Doctor(firstName=Vct, lastName=Vu, age=56, id=9162, statistics=)
+Doctor(firstName=Xko, lastName=Rj, age=36, id=7830, statistics=)
+Doctor(firstName=Vie, lastName=Kj, age=62, id=4444, statistics=)
+Doctor(firstName=Oib, lastName=Xh, age=32, id=9168, statistics=)
+Doctor(firstName=Sgo, lastName=Nh, age=47, id=1871, statistics=)
+Doctor(firstName=Kkn, lastName=Rp, age=38, id=9311, statistics=)
